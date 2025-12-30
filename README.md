@@ -27,7 +27,7 @@ This project aims to:
 
 The dataset contains:
 
-* Customer demographics
+- Customer demographics
 
 - Purchase details
 
@@ -104,7 +104,7 @@ The Excel dashboard enables quick performance monitoring using pivot tables and 
 - Digital payment methods are most preferred, suggesting focus on seamless online payment experiences.
 - Standard shipping is favored over faster options, highlighting cost sensitivity among customers.
 
-▶️ How to Use This Project
+## ▶️ How to Use This Project
 
 1. Download or clone the repository
 
