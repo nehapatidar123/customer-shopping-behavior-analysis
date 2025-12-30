@@ -1,4 +1,8 @@
-# customer-shopping-behavior-analysis
+# Customer Shopping Behavior Analysis
+
+This project focuses on analyzing customer shopping behavior to extract meaningful business insights using SQL, Python, and Excel. 
+The goal is to help businesses understand purchasing patterns, customer preferences, and revenue-driving segments to improve marketing and operational strategies.
+
 
 ## 📌 Project Overview
 
@@ -18,7 +22,7 @@ This project focuses on analyzing customer shopping behavior to extract meaningf
 
 #### File: customer_shopping_behaviour.csv
 
-Contains customer demographics, purchase details, payment methods, shipping types, discounts, and review ratings.
+Contains customer demographics, purchase details, payment methods, shipping types, discounts, and review ratings used for behavioral and revenue analysis.
 
 ## 🛠 Tools & Technologies Used
 
@@ -32,7 +36,7 @@ Contains customer demographics, purchase details, payment methods, shipping type
 
 ## 📌 SQL Analysis
 
-Wrote 10 business-focused SQL queries
+- Wrote 10 business-focused SQL queries
 
 Covered:
 
@@ -62,7 +66,7 @@ Visualized:
 
 * Customer activity
 
-File included as part of the repository
+The Excel dashboard enables quick performance monitoring using pivot tables and charts.
 
 #### 📊 File: customer_shopping_dashboard.xlsx
 
@@ -78,15 +82,13 @@ File included as part of the repository
 
 #### 📓 File: customer_shopping_behavior_analysis.ipynb
 
-✅ Key Insights
+## ✅ Key Insights
 
-* Young adults contribute the highest revenue
+- Young adult customers contribute the highest revenue, making them a key target group for marketing campaigns.
+- Subscribed customers show higher average spending, indicating subscription programs improve customer value.
+- Digital payment methods are most preferred, suggesting focus on seamless online payment experiences.
+- Standard shipping is favored over faster options, highlighting cost sensitivity among customers.
 
-* Subscribed customers show higher average spending
-
-* Digital payment methods are most preferred
-
-* Standard shipping is favored over faster options
 
 ## 📁 Repository Structure
 ```
@@ -101,4 +103,5 @@ Customer-Shopping-Behaviour-Analysis/
 
 ## 📌 Conclusion
 
-This project demonstrates the ability to transform raw data into business insights using SQL, Python, and Excel. It is suitable for data analyst internship and entry-level roles.
+This project demonstrates the ability to transform raw customer data into actionable business insights using SQL, Python, and Excel. 
+The analysis supports data-driven decisions related to customer segmentation, payment strategies, and subscription-based growth, making it suitable for data analyst internship and entry-level roles.
